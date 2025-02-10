@@ -1,0 +1,2 @@
+staticandfinal.CoffeeMachine
+staticandfinal.Singleton

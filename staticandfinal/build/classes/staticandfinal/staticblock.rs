@@ -1,0 +1,2 @@
+staticandfinal.staticblock
+staticandfinal.Test
