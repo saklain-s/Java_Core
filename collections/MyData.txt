@@ -1,0 +1,6 @@
+#Laptop
+#Fri Sep 27 18:32:05 IST 2024
+Brand=Dell
+Model=Latitude
+OS=Windows10
+Processor=i7
